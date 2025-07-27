@@ -1,4 +1,4 @@
 # firstresp
 this is first git repository
 <br>
-author :syed
+author :syed shahid
